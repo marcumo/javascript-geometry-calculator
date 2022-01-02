@@ -1,5 +1,12 @@
-# javascript-geometry-calculator
-A javascript vanilla geometry calculator :)
+# JavaScript-geometry-calculator
+A JavaScript vanilla geometry calculator :)
+
+## Taller #1: Figuras genométricas
+
+- Primer paso: definir las formulas.
+- Segundo paso: implementar las fórmulas en JavaScript.
+- Tercer paso: crear funciones
+- Cuarto paso: integrar JS
 
 ## License 📃
 
