@@ -1,7 +1,7 @@
 # JavaScript-geometry-calculator
 A JavaScript vanilla geometry calculator :)
 
-## ✨ Preview
+## Preview ✨
 
 Deploy: [JavaScript Geometry Calculator](https://marcumo.github.io/javascript-geometry-calculator/)
 
